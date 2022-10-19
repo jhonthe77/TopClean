@@ -1,0 +1,3 @@
+validar ------> nombres 
+validar ------> correo
+limpiar datos no validos 
